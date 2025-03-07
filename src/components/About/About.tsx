@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import AVS from "../../assets/VinayakSingh.webp";
+
 import ScrollAnimation from "react-animate-on-scroll";
 
 export function About() {
