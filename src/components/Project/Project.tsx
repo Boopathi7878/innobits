@@ -19,7 +19,7 @@ export function Project() {
               <h3>Pioneering Perspectives</h3>
               <p>Pioneering Perspectives is a flagship technical event designed to inspire innovation and intellectual discourse. As part of Innobits, this event serves as a platform for students, professionals, and technology enthusiasts to engage in insightful discussions, hands-on workshops, and competitive challenges.</p>
             </div>
-            <footer> <ul className="tech-list"> <li>A</li> <li>B</li> <li>C</li> </ul> </footer>
+            <footer> <ul className="tech-list"> </ul> </footer>
           </div>
         </ScrollAnimation>
 
