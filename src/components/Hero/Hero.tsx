@@ -25,7 +25,7 @@ export function Hero() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
       <div className="social-media"><a
-        href="https://www.linkedin.com/school/avs-engineering-college---india/"
+        href="https://www.instagram.com/avsecenggslm?igsh=Nm1jcGhrcmQ2aGZo"
         target="_blank"
         rel="noreferrer"
       >
