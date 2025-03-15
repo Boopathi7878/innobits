@@ -98,9 +98,9 @@ export function Project() {
               </h3>
               <p>Design Dynamics is a premier event dedicated to the art and science of design in the digital era. As part of Innobits, this event explores the principles of UI/UX, graphic design, and creative storytelling through interactive workshops, competitions, and expert sessions. </p>
               <ol>
-                <li>📌 Participants can use any design software or web technologies (Figma, Adobe XD, HTML, CSS, JS, etc.)</li>
+                <li>📌 Participants can use web technologies (HTML, CSS, JS, etc.)</li>
                 <li>📌 Participants can compete individually</li>
-                <li>📌 Creativity, UI/UX effectiveness, responsiveness, and innovation will be evaluated.</li>
+                <li>📌 Creativity, Effectiveness, Responsiveness, and Innovation will be evaluated.</li>
                 <li>📌 Participants must maintain professionalism and adhere to ethical design practices.</li>
               </ol>
             </div>
